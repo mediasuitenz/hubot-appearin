@@ -1,7 +1,7 @@
 {
   "name": "hubot-appearin",
   "description": "A hubot script to create appear.in chat rooms and link to them",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Richard Walker <digitalsadhu@gmail.com>",
   "license": "MIT",
 
