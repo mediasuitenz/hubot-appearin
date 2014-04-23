@@ -1,3 +1,5 @@
+[![Media Suite](http://mediasuite.co.nz/ms-badge.png)](http://mediasuite.co.nz)
+
 # Hubot appear.in
 
 A hubot script to create appear.in chat rooms and link to them so that 
