@@ -23,6 +23,6 @@ module.exports = (robot) ->
     msg.send "http://appear.in/" + roomname
 
   robot.respond /appearin$/i, (msg) ->
-    robot.http('http://randomword.setgetgo.com/get.php')
+    robot.http('http://setgetgo.com/randomword/get.php')
       .get() (err, res, body) ->
         msg.send 'http://appear.in/' + body.trim().toLowerCase()
